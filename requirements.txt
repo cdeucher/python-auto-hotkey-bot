@@ -1,0 +1,6 @@
+numpy
+opencv-python
+keyboard
+ahk
+Pillow
+pywin32
